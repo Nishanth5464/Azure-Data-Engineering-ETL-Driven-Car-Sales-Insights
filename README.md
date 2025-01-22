@@ -37,7 +37,6 @@ Azure Synapse Analytics: For querying and managing external tables.
 Power BI: For Data Visualization and Reporting.
 
 AdventureWorks Dataset: https://www.kaggle.com/datasets/ukveteran/adventure-works/data
-
 Source: GitHub
 Type: CSV files (10 files ingested)
 Description: Contains sales data used for reporting and analysis.
@@ -49,17 +48,17 @@ ADF dynamically ingests CSV files from GitHub into the Bronze container. Uses pa
 ![Synapse](https://github.com/user-attachments/assets/39ae4592-490d-4f10-a153-3e406b326dfe)
 
 
-# Data Transformation:
+# Data Transformation
 Databricks performs cleaning and transformations. Data is saved in the Silver container for further analysis.
 
 <img width="1470" alt="Screenshot 2025-01-22 at 1 04 29 PM" src="https://github.com/user-attachments/assets/b6908373-12fa-47ea-910a-28487b8382d8" />
 
-# Data Preparation for Analytics:
+# Data Preparation for Analytics
 Synapse Analytics enables querying of data from the Silver container. Finalized analytics ready data is saved in the Gold container.
 
 <img width="1470" alt="Screenshot 2025-01-22 at 1 06 56 PM" src="https://github.com/user-attachments/assets/ce910524-8147-41ac-90e8-24945da695c9" />
 
-# Visualization:
+# Visualization
 Power BI connects to Synapse to create interactive dashboards for insights.
 ![Car Sales PowerBI Dashboard](https://github.com/user-attachments/assets/ba18194e-7e4d-4aca-8254-7f598f6eb2f9)
 
