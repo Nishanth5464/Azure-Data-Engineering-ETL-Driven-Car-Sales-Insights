@@ -2,7 +2,9 @@
 
 This project showcases a comprehensive data engineering workflow built on the Medallion Architecture. It processes the AdventureWorks dataset, hosted on GitHub, utilizing various Azure services. The pipeline spans from raw data ingestion to delivering final insights through Power BI dashboards, offering a well-structured and scalable ETL solution.
 
-# <img width="1470" alt="Screenshot 2025-01-22 at 12 33 37 PM" src="https://github.com/user-attachments/assets/c357144c-9dc7-4bf9-88cf-8dd9593a8a19" />
+<!-- 
+<img width="1470" alt="Screenshot 2025-01-22 at 12 33 37 PM" src="https://github.com/user-attachments/assets/c357144c-9dc7-4bf9-88cf-8dd9593a8a19" /> 
+-->
 
 # Medallion Architecture Layers
 
