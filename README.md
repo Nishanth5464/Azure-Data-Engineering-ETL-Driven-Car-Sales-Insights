@@ -8,9 +8,8 @@ This project showcases a comprehensive data engineering workflow built on the Me
 
 # Medallion Architecture Layers
 
-<img width="1470" alt="Screenshot 2025-01-22 at 12 39 37 PM" src="https://github.com/user-attachments/assets/d4329126-d066-4bb4-b3f3-dc178c6a09e1" />
+![image](https://github.com/user-attachments/assets/8d1eb496-e5b0-424d-9aef-37370fa52a1a)
 
-![image](https://github.com/user-attachments/assets/7df0f021-cab4-46ac-aefa-507979a4e6db)
 
 
 
