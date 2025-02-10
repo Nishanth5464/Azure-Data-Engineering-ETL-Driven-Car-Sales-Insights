@@ -10,6 +10,9 @@ This project showcases a comprehensive data engineering workflow built on the Me
 
 <img width="1470" alt="Screenshot 2025-01-22 at 12 39 37 PM" src="https://github.com/user-attachments/assets/d4329126-d066-4bb4-b3f3-dc178c6a09e1" />
 
+![image](https://github.com/user-attachments/assets/7df0f021-cab4-46ac-aefa-507979a4e6db)
+
+
 
 Bronze Layer:
 Raw data is imported into the Azure Data Lake via pipelines created using Azure Data Factory (ADF). A Linked Service is configured for both GitHub (using an HTTP Linked Service) and the Azure Data Lake to access the dataset. Dynamic pipelines leverage LookUp and ForEach activities to ingest multiple CSV files (10 files in total for this project).
